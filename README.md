@@ -1,4 +1,4 @@
-Notes = 
+Notes :
 - Install Xampp
 - Import database db_absensi.sql to phpmyadmin
 - Include Bootstrap AdminLte 3
